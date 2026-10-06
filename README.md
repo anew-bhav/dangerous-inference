@@ -49,3 +49,8 @@ uv run python -m bench.plot              # regenerate the journey chart
 ./scripts/new.sh lesson 01 kv-cache      # scaffold a new lesson
 ./scripts/new.sh journal                 # today's journal entry
 ```
+
+## License
+
+- **Code:** [MIT](LICENSE)
+- **Writing** (Markdown notes, write-ups, journal) and images: [CC BY-NC 4.0](LICENSE-docs). Reuse with credit, non-commercial only.
