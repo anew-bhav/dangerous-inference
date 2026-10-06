@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Models & caches: never commit weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+*.onnx
+models/
+hf_cache/
+.cache/
+
+# Large / scratch outputs
+*.nsys-rep
+*.ncu-rep
+*.trace.json
+profiles/
+scratch/
+
+# Env
+.env
+.DS_Store
