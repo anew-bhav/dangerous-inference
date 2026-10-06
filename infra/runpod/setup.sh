@@ -4,7 +4,7 @@
 # Everything persistent lives under /workspace (the network volume).
 set -euo pipefail
 
-REPO_URL="${REPO_URL:-https://github.com/<you>/dangerous-inference.git}"
+REPO_URL="${REPO_URL:-https://github.com/anew-bhav/dangerous-inference.git}"
 WORKDIR=/workspace/dangerous-inference
 
 export HF_HOME=/workspace/hf_cache

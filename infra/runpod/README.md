@@ -10,7 +10,7 @@ Goal: go from a fresh pod to a working environment with one command.
 
 ## First boot
 ```bash
-REPO_URL=https://github.com/<you>/dangerous-inference.git bash -c "$(curl -fsSL <raw-url>/infra/runpod/setup.sh)"
+REPO_URL=https://github.com/anew-bhav/dangerous-inference.git bash -c "$(curl -fsSL <raw-url>/infra/runpod/setup.sh)"
 ```
 or, after cloning: `bash infra/runpod/setup.sh`
 
