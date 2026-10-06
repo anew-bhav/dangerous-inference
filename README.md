@@ -1,6 +1,7 @@
-# Learning Inference
+# dangerous-inference
 
-A public, hands-on log of learning LLM inference from first principles, one experiment at a time.
+Learning LLM inference until I know enough to be dangerous.
+Predict, measure, explain: from HF `generate` to my own engine vs vLLM.
 
 Every lesson follows the same loop: **brief → predict → run → compare → reflect**.
 Predictions are written *before* running, so the gaps between what I expected and what I measured are part of the record.
